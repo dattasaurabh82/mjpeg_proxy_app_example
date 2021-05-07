@@ -1,0 +1,15 @@
+{
+  "name": "mjpeg_proxy_app",
+  "version": "1.0.0",
+  "description": "for proxying a mjpeg stream to a http port",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurabh Datta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-mjpeg-proxy": "^0.3.2"
+  }
+}
